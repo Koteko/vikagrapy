@@ -1,0 +1,15 @@
+[
+  {
+    "url": "/assets/images/portraet1.jpg",
+    "alt": "Porträt einer Frau",
+    "title": "Porträt 1",
+    "description": "Eine stilvolle Aufnahme mit natürlichem Licht."
+  },
+  {
+    "url": "/assets/images/blumen1.jpg",
+    "alt": "Blumenstrauß",
+    "title": "Blumen",
+    "description": "Detailaufnahme von farbenfrohen Blumen."
+  }
+]
+

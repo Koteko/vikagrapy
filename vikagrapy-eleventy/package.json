@@ -1,0 +1,17 @@
+{
+  "name": "vikagrapy",
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "postcss src/assets/css/tailwind.css -o _site/assets/css/styles.css",
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@tailwindcss/postcss": "^4.1.8",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4.1.8"
+  }
+}
